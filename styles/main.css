@@ -1,0 +1,16 @@
+body {
+    &[unresolved] {
+        opacity: 0;
+    }
+    font-family: 'Arial', sans-serif;
+    background-color: white;
+    color: #333333;
+    opacity: 1;
+    transition: opacity 250ms ease-in;
+}
+
+main {
+    width: 100%;
+    max-width: 1024px;
+    margin: 2em auto;
+}

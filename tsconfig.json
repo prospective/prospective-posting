@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "module": "es6",
+    "target": "es5",
+    "lib": [
+      "es2015",
+      "dom"
+    ],
+    "moduleResolution": "node",
+    "strictNullChecks": false, // activate later and fix all the errors
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "noImplicitAny": true,
+    "removeComments": true, // remove it with babel later?
+    "sourceMap": true,
+    "inlineSourceMap": false
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
