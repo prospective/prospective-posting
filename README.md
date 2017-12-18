@@ -28,7 +28,7 @@
 To run the app simply execute the following command from within the root directory of the cloned repository
 
 ```
-$ npm install
+$ npm start
 ```
 
 When webpack finished building open your browser in [http://localhost:8080](http://localhost:8080)
