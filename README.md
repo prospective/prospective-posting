@@ -68,3 +68,9 @@ The project setup includes the following features:
 2. PostCSS allows you to use all CSSNext features, with enabled autoprefixing. see also [http://cssnext.io/features](http://cssnext.io/features)
 3. You can install any missing dependency or library using NPM. Whether it is a CSS dependency like bootstrap grid or JS / TS dependency like jQuery
 
+# Goal
+
+The goal is to work collaboratively on a simple job posting layout using most recent HTML/CSS/JS features. 
+During the session we will discuss and talk about design and coding in general. To get us started with the task, we will have 
+a visual design in InVision ready to be implemented. It is up to you to make the best of the posting. Depending on the 
+progress we might get to some simple coding in JS or TS.    
